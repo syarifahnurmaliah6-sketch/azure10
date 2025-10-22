@@ -1,1 +1,1 @@
-qa-inrule-ircatalog-manager.tneducation.net
+preview.snapschedule.com
